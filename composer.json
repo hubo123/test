@@ -1,0 +1,8 @@
+{
+    "name": "hubo123/test",
+    "description": "测composer 扩展包",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
